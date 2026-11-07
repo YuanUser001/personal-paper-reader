@@ -1,0 +1,9 @@
+请使用personal-paper-reader skill精读papers/把这里改成实际论文文件名.pdf。
+
+请先读取本项目.agents/skills/personal-paper-reader/SKILL.md及单篇规则。我已把整个skill文件夹按README复制到该位置；若尚未安装，说明需要读取的文件，不能假装发现了不存在的skill。
+
+我的阅读偏好：请按我本次提供的偏好；未提供时使用skill默认示例并说明。
+
+完成证据提取、总结和回查，关键数字保留来源与比较条件。不要让我逐阶段发送“继续”；遇到无法读取或执行的步骤，写明限制，不编造核验。
+
+将evidence.md、reading.md、checks.md和run.md保存到本次新建的结果目录，保留已有输出。
