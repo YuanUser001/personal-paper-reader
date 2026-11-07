@@ -1,0 +1,21 @@
+# Local papers and generated research outputs
+papers/
+outputs/
+results/
+work/
+*.pdf
+*.docx
+*.xlsx
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+my-reading-profile.txt
+reading-profile.local.md
+~$*
+.DS_Store
+Thumbs.db
